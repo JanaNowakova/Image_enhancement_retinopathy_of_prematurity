@@ -1,4 +1,6 @@
 # Image_enhancement_retinopathy_of_prematurity
+# Abstract
+Retinopathy of prematurity (ROP) is an ocular disease caused by abnormal retinal blood vessel growth of premature infants. All premature infants who fall within a screening protocol (birth weight less than 1500 g and gestational age below 32 weeks) are diagnosed by an ophthalmological specialist for ROP. Early recognition of ROP and other diseases of premature infants leads to better treatment. The examination is provided by special cameras, which take a snapshot of the posterior segment of the eye (fundus). The taken retinal images are not always perfect. The images can be dark, with low contrast, or difficult to distinguish necessary patterns for diagnosis. This article examines the image enhancement methods of the fundus, such as transformation to green or grayscale channel, adaptive histogram equalisation methods, Gaussian smoothing, and contrast enhancement. These methods improve the image quality in computer-aided diagnosis of the fundus of prematurely born infants.
 
 Please cite:
 
@@ -12,3 +14,5 @@ HASAL, Martin, et al. Image Enhancement in Retinopathy of Prematurity. In: Inter
   <div>year={2022},</div>  
   <div>organization={Springer}</div>
 <div>}</div>
+
+If you like our work and want to cooperate or comment, please do not hesitate to contact us.
