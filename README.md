@@ -15,7 +15,7 @@ HASAL, Martin, et al. Image Enhancement in Retinopathy of Prematurity. In: Inter
   <div>pages={422--431},</div>
   <div>year={2022},</div>  
   <div>organization={Springer}</div>
-<div>}</div>
+<div>}</div>  
   
 HASAL, Martin, et al. Retinal Vessel Segmentation by U-Net with VGG-16 Backbone on Patched Images with Smooth Blending. In: International Conference on Intelligent Networking and Collaborative Systems. Cham: Springer Nature Switzerland, 2023. p. 465-474.
 
