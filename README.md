@@ -4,7 +4,7 @@ Retinopathy of prematurity (ROP) is an ocular disease caused by abnormal retinal
 
 #### If you like our work and want to cooperate or comment, please do not hesitate to contact us.
 
-### Please cite:
+### If you like and use our work, please cite:
 
 HASAL, Martin, et al. Image Enhancement in Retinopathy of Prematurity. In: International Conference on Intelligent Networking and Collaborative Systems. Springer, Cham, 2022. p. 422-431.
 
@@ -16,3 +16,14 @@ HASAL, Martin, et al. Image Enhancement in Retinopathy of Prematurity. In: Inter
   <div>year={2022},</div>  
   <div>organization={Springer}</div>
 <div>}</div>
+
+HASAL, Martin, et al. Retinal Vessel Segmentation by U-Net with VGG-16 Backbone on Patched Images with Smooth Blending. In: International Conference on Intelligent Networking and Collaborative Systems. Cham: Springer Nature Switzerland, 2023. p. 465-474.
+
+@inproceedings{hasal2023retinal,
+  title={Retinal Vessel Segmentation by U-Net with VGG-16 Backbone on Patched Images with Smooth Blending},
+  author={Hasal, Martin and Pecha, Marek and Nowakov{\'a}, Jana and Hern{\'a}ndez-Sosa, Daniel and Sn{\'a}{\v{s}}el, V{\'a}clav and Timkovi{\v{c}}, Juraj},
+  booktitle={International Conference on Intelligent Networking and Collaborative Systems},
+  pages={465--474},
+  year={2023},
+  organization={Springer}
+}
